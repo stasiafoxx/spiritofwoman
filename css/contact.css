@@ -1,0 +1,50 @@
+.contact-column{
+   font-family: 'Ubuntu', sans-serif;
+   width: 50%;
+   text-align:center;
+   float: left;
+   color: #fafafa;
+    }
+
+.form-container {
+    width: 50%;
+    }
+    
+.container {
+    font-family: 'Ubuntu', sans-serif;
+    color: #86A442;
+    font-size: 20px;
+    height: 900px;
+    width: 900px;
+    background-color: white;
+    text-align: center;
+    margin-left: 270px;
+    margin-top: 100px;
+}
+
+.map {
+   background-size:contain; 
+    }
+ 
+/*Footer*/
+.main-footer {
+  height: 135px;
+  font-family: 'Ubuntu', sans-serif;
+  color: #86A442;
+  background-color: #FFF6F9;
+  text-align: center;
+  margin-top:  100px;
+  }
+
+.social-media {
+  text-align: center;
+  display: block;
+  margin: 0px;
+  padding-top: 10px;
+  }
+
+.fab {
+  text-align: center;
+  margin-left: 30px;
+  
+  }

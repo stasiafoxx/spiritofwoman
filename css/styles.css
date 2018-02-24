@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+body {
+  background-image: url(../images/orchids.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  margin: 0;
+  font-family: 'Ubuntu', sans-serif;
+  }
+  
+.background-image {
+  height: 100%;
+  }  
+  
+/* Start of Nav Styles*/
+.main-nav {
+  height: 50px;
+  width: 100%;
+  background-color: #FFF6F9;
+  margin:0;
+  padding:0;
+}
+
+.nav-list {
+  float: right;
+  list-style: none;
+}
+
+.nav-item {
+  float: left;
+  margin-right: 15px;
+}
+.nav-link {
+  color: #86A442;
+  text-decoration: none;
+  list-style: none;
+  margin: 0;
+}
+.nav-escape {
+  float: left;
+  color: #86A442;
+  text-decoration: none;
+  margin-top: 15px;
+}  
+.map-container {
+  width: 75%;
+  margin: 0 auto;
+  }
+  
+ 
+/*header*/
+/* Container holding the image and the text */
+.container {
+    font-family: 'Ubuntu', sans-serif;
+    background-color: rgba(300, 300, 300, 0.9);
+    color: #86A442;
+    font-size: 20px;
+    height: 700px;
+    width: 900px;
+    text-align: center;
+    margin-left: 270px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    box-shadow: 5px 5px 10px grey;  
+}
+
+.info {
+  text-align: center;
+  color: #86A442;
+  text-decoration: none;
+  padding-top: 0px;
+  margin-top: 2px;
+  margin: 2px;
+  }
+  
+a:visited {
+    color:  #86A442;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #53710F;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.map-link {
+  color: #86A442;
+  text-decoration: none;
+  }
+  
+  
+.hero-image {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%
+}
+
+.mission-statement {
+  font-family: 'Ubuntu', sans-serif;
+  color: #86A442;
+  }
+
+.image {
+  float: left;
+  }
+  
+.faq-questions {
+  font-size: 25px;
+  text-decoration: underline;
+  
+  }
+
+.faq-answers {
+  font-size: 20px;
+  clear: left;
+   
+}
+  
+
+/*Footer*/
+.main-footer {
+  height: 135px;
+  font-family: 'Ubuntu', sans-serif;
+  color: #86A442;
+  background-color: #FFF6F9;
+  text-align: center;
+  margin-top:  100px;
+  }
+
+.social-media {
+  text-align: center;
+  display: block;
+  margin: 0px;
+  padding-top: 10px;
+  }
+
+.fab {
+  text-align: center;
+  margin-left: 30px;
+  }
